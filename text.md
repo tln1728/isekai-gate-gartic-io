@@ -1,5 +1,5 @@
-🟢 21 🟡 54 🔴 1
-76
+🟢 51 🟡 60 🔴 1
+112
 
 # 🟢 Heroes (21/21)
 <details close>
@@ -35,8 +35,8 @@
 </details>
 
 
-# 🟡 Items (51/57)
-<details open>
+# 🟡 Items (53/59)
+<details close>
 
 - Normal (0/6)
 
@@ -107,13 +107,53 @@
     - Absolute Zero Ice Cream
     - Charging Mushroom
     - Shar Harpoon
+
+    Removed Items
+    - Plasma Gun
+    - Crown of Ruined King
 </details>
 
 
-# 🟢 Bosses (0/?)
+# 🟢 Bosses (30/31)
 <details open>
 
+Mini Boss (19)
+    - King God Slime
+    - Wolf Granny
+    - Banarang
+    - Sheepster
+    - Winged Porco
+    - King Turtle (MK.II)
+    - Three P Bros
+    - Mother Cobra
+    - Honey Bear
+    - Sir Octo
+    - Growing Sprout
+    - Bunny the Tank
+    - Batpire
+    - Frog the Prince
+    - Vic Guy
+    - Supersonic Scooter
+    - Crowper
+    - Mush Venom
+    - Captain Ratty
 
+Final Boss (12)
+    - Wingbong
+    - Nimbus 40k
+
+    - Tort & Hare
+    - Hero Pengrins
+    - RockFire
+    - Anchovy Leader
+
+    - Mr Ho
+    - Surfing Joe
+    - HeavyLob
+    - Wizard Pengqueen
+    
+    - 
+    - Big Boss Moby
 </details>
 
 # 🟡 Game modes (3/3)
@@ -122,6 +162,16 @@
 - Gate Defense
 - Bosh rush
 - Pinata party
+</details>
+
+
+# 🟡 Maps (4)
+<details open>
+
+- Dangerous Grassland
+- Wasted Land
+- Frozen Land
+- Safety First Beach
 </details>
 
 
