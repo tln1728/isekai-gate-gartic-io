@@ -1,5 +1,5 @@
-🟢 51 🟡 60 🔴 1
-112
+124
+🟢 51 🟡 60 🔴 13
 
 # 🟢 Heroes (21/21)
 <details close>
@@ -55,6 +55,7 @@
     - Stun gun
 
 - Epic (39/39)
+    
     Crit
     - Infinity Edge (Finite Greatsword)
     - Pickpocket's Gloves
@@ -116,8 +117,8 @@
 
 # 🟢 Bosses (30/31)
 <details open>
-
-Mini Boss (19)
+    
+- Mini Boss (19)
     - King God Slime
     - Wolf Granny
     - Banarang
@@ -138,20 +139,17 @@ Mini Boss (19)
     - Mush Venom
     - Captain Ratty
 
-Final Boss (12)
+- Final Boss (12)
     - Wingbong
     - Nimbus 40k
-
     - Tort & Hare
     - Hero Pengrins
     - RockFire
     - Anchovy Leader
-
     - Mr Ho
     - Surfing Joe
     - HeavyLob
     - Wizard Pengqueen
-    
     - 
     - Big Boss Moby
 </details>
@@ -175,10 +173,23 @@ Final Boss (12)
 </details>
 
 
-# 🔴 Runes (0/?)
+# 🔴 Runes (12/?)
 <!-- unique rune only -->
 <details open>
 
+    - Left-handed
+    - Right-handed
+    - Ambidextrous
+    - Extension
+    - Onslaught
+    - Quick-reload
+    - Solitude 
+    <!-- might be change to Lone Wolf --> 
+    - Mastery
+    - Blessing
+    - Indomitable
+    - Destruction
+    - Execution
 </details>
 
 
