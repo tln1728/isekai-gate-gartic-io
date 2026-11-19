@@ -1,5 +1,6 @@
-124
-🟢 51 🟡 60 🔴 13
+150
+
+🟢 52 🟡 65 🔴 33
 
 # 🟢 Heroes (21/21)
 <details close>
@@ -150,7 +151,7 @@
     - Surfing Joe
     - HeavyLob
     - Wizard Pengqueen
-    - 
+    - Swordmaster Penking
     - Big Boss Moby
 </details>
 
@@ -177,23 +178,62 @@
 <!-- unique rune only -->
 <details open>
 
-    - Left-handed
-    - Right-handed
-    - Ambidextrous
-    - Extension
-    - Onslaught
-    - Quick-reload
-    - Solitude 
-    <!-- might be change to Lone Wolf --> 
-    - Mastery
-    - Blessing
-    - Indomitable
-    - Destruction
-    - Execution
+- Left-handed
+- Right-handed
+- Ambidextrous
+- Extension
+- Onslaught
+- Quick-reload
+- Solitude 
+- Mastery
+- Blessing
+- Indomitable
+- Destruction
+- Execution
 </details>
 
 
-# 🔴 Season Events (1/5)
+# 🟡 Currency (5)
+<details open>
+
+- Seal
+- Silver (In-game)
+- Exp Book
+- Stamina
+- Stamina Boost
+</details>
+
+
+# 🔴 Figures (20/29)
+<details open>
+
+- Godess of Blessing
+- Godess of Greed
+- Godess of War
+
+- Golden Spoon
+- Cleaner
+- Hero
+- Field Shovel
+- Bounty Hunter
+- Champion Belt
+- Vault Keeper
+- Security Guard
+- Defense Soldier
+- Delivery
+- Pickaxe
+- Skateboard
+- Chicken
+<!-- Bandage -->
+<!-- Cheerleader -->
+- Hero Landing
+- Scientist
+- Mathematician
+- Ninja
+</details>
+
+
+# 🔴 Season Events (2/5)
 <details open>
 
 - Aram's Bag Cleanup (ss6)
@@ -202,6 +242,5 @@
 
 # 🔴 Others
 <details open>
-
 
 </details>
